@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/_soumya_swain" target="blank"><img src="https://img.shields.io/twitter/follow/_soumya_swain?logo=twitter&style=for-the-badge" alt="_soumya_swain" /></a> </p>
 
-- 🌱 I’m currently learning **REST API, React JS, Django**
+- 🌱 I’m currently learning **REST API, Node JS, Django**
 
 - 👨‍💻 All of my projects are available at [https://replit.com/@soumyaswain86](https://replit.com/@soumyaswain86)
 
-- 💬 Ask me about **J2EE, HTML-CSS-JS, Struts, Spring**
+- 💬 Ask me about **React, HTML-CSS-JS, Java, Spring**
 
 - 📫 How to reach me **soumyaranjanswain4610@gmail.com**
 
