@@ -1,6 +1,6 @@
 ![logo](https://github.com/Soumya6610/Soumya6610/blob/main/png_20230701_094359_0000.png)
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Swain</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
