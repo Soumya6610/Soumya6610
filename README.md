@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **soumyaranjanswain4610@gmail.com**
 
-- ⚡ Fun fact **straight but bend 😁😅**
+- ⚡ Fun fact **blank execution but filled with console 😁😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
