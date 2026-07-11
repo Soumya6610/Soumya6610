@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Software Development Support Engineer** at **NIC (National Informatics Centre)**, building and maintaining production government web applications.
+- 🔭 Currently working as a **Software Development Engineer L4** at **NIC (National Informatics Centre)**, building and maintaining production government web applications.
 - 🏆 Built **eDetection**, an award-winning traffic violation detection system for the Government of India — winner of the **Technology Sabha Award (2026)** and **Economic Times Award, Silver Category (2026)**.
 - 🩺 Building **MediAI**, a multi-role healthcare platform connecting patients, doctors, labs, and hospitals.
 - 🧠 Building **INDOCS**, a client-side document verification engine using **ONNX-converted PyTorch models** for validation, extraction, and signature verification.
